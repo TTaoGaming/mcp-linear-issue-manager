@@ -9,3 +9,5 @@ LINEAR_API_KEY=lin_api_... npm run dev
 ```
 
 Hosted mode uses `/mcp`; store the key as a Worker secret. `npm run check` compiles, tests, and dry-runs the Worker. `npm run inspector:list` verifies discovery. npm and Registry publication require operator approval.
+
+Live credential-free demo: `https://mcp-linear-issue-manager.tommytai3.workers.dev/mcp`. Discovery and status work; Linear calls fail closed until a Worker secret is bound.
