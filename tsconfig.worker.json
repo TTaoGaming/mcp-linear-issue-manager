@@ -1,0 +1,4 @@
+{
+  "compilerOptions": { "target": "ES2022", "module": "ESNext", "moduleResolution": "Bundler", "rootDir": ".", "outDir": "dist-worker", "strict": true, "exactOptionalPropertyTypes": true, "skipLibCheck": true, "types": ["@cloudflare/workers-types"], "noEmit": true },
+  "include": ["src/core.ts", "src/server.ts", "src/worker.ts"]
+}

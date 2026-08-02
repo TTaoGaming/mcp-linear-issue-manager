@@ -1,0 +1,1 @@
+{ "target": "mcp-linear-issue-manager", "github_url": "https://github.com/TTaoGaming/mcp-linear-issue-manager", "license": "MIT", "tests_passing": true, "install_command": "git clone https://github.com/TTaoGaming/mcp-linear-issue-manager.git && cd mcp-linear-issue-manager && npm ci && npm run build", "npm_pypi_status": "pending_operator_approval" }
